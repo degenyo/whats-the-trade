@@ -116,6 +116,10 @@ When assigning tickers:
 - **Medium conviction:** Good thesis but crowded, or catalyst is ambiguous
 - **Low conviction:** Speculative, depends on follow-through, or the market might not care
 
+## Examples
+
+For concrete examples of expected output, see `references/examples.md`.
+
 ## Special Cases
 
 ### When the input is vague or ambiguous
