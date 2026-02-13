@@ -167,5 +167,5 @@ When money flows INTO → it typically flows FROM:
 
 ---
 
-*Last updated: [User should update this as markets evolve]*
+*Last updated: 2026-02-12*
 *This mapping reflects general associations — always verify current market structure*
